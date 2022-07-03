@@ -1,0 +1,39 @@
+* {
+    font-family: "Nunito", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+nav {
+    width: 20vw;
+    height: 100vh;
+    z-index: 10;
+}
+
+.nav-seperator {
+    height: 3px;
+    width: 75%;
+}
+
+.navbar-nav {
+    top: 10%;
+}
+
+#hero-banner {
+    z-index: 1;
+}
+
+#hero-video {
+    height: 100vh;
+    width: 100vw;
+}
+
+#dim {
+    z-index: 2;
+}
+
+#top-sep {
+    top: 15%;
+}
+
+#bottom-sep {
+    bottom: 33%;
+}
